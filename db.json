@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "weff",
+      "lastName": "wefw",
+      "email": "wefw",
+      "mobile": "fwew",
+      "salary": "wef"
+    },
+    {
+      "firstName": "braa",
+      "lastName": "ahen",
+      "email": "434532",
+      "mobile": "35489765",
+      "salary": "3555555",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
